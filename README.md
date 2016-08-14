@@ -24,6 +24,7 @@ npm test
 ```
 # Example Usage Accordion:
 
+```
     type Action
         = NoOp
         | SetExpanded Int Bool
