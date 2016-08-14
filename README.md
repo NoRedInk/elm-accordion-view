@@ -22,7 +22,7 @@ npm test
 ```
 
 ```
-Example Usage:
+# Example Usage Accordion:
 
     type Action
         = NoOp
