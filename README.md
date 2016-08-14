@@ -21,7 +21,6 @@ npm install
 npm test
 ```
 
-```
 # Example Usage Accordion:
 
 ```
