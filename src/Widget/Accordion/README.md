@@ -28,6 +28,7 @@ the given `entry` is to become expanded, followed by the `entry` itself.
 `getExpanded` will be called with an `entry` to determine whether it ought
 to be displayed in expanded form.
 
+```
 # Example Usage Accordion:
 
 ```
